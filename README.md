@@ -10,3 +10,5 @@ To install nodemon:
     
 To Run server.js:
     type: "nodemon ."
+
+To understand how the back-end was setup, you can watch the setup video: https://www.youtube.com/watch?v=DQ9pZ2NKXRo&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ&index=2
